@@ -1,4 +1,4 @@
 <RCC>
-    <qresource prefix="QtWidgetHello">
+    <qresource prefix="QtSipper">
     </qresource>
 </RCC>
